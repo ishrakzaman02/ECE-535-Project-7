@@ -59,6 +59,12 @@ Smart home devices are increasingly important for convenience and security. A sm
 | 6 | System integration & debugging |
 | 7 | Final testing, documentation, demo video |
 
+## Files: 
+- dataset.zip is the custom dataset we used.
+- 212.pdf is the google colab file used for making the tflite.
+- test0.py is the python file running on the pi.
+- doorbell_model.tflite is the tensorflow lite.
+ 
 ## References
 - [MobileNets: Efficient CNNs for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
 - TensorFlow Lite official docs
